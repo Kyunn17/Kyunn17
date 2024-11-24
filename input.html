@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>PROJEK KECIL PERTAMA</title>
+</head>
+<body>
+    <h1>NAMA SEKOLAH</h1>
+    <h1>==========tahun ajaran==============</h1>
+    <h1 id="demo">...</h1>
+    NAMA <input id="NAMAq"> <br> <br>
+    PAI <input id="PAIq"> <br> <br>
+    Bind <input id="Bindq"> <br> <br>
+    Bing  <input id="Bingq"> <br> <br>
+    MTK <input id="MTKq"> <br> <br>
+    Fisika <input id="Fiskq"> <br> <br>
+    Kimia <input id="Kimq"> <br> <br>
+    Bsunda <input id="Bsundq"> <br> <br>
+    <button onclick="raport()">rata2</button>
+    <script>
+    function raport(){
+    let NAMA,PAI,Bind,Bing,MTK,Fisika,Kimia,Bsund,total,rata2
+    NAMA = NAmAq.value
+    PAI = PAIq.value
+    Bind = Bindq.value
+    Bing = Bingq.value
+    MTK = MTKq.value
+    Fisika = Fiskq.value
+    Kimia = Kimq.value
+    Bsund = Bsundq.value
+    total = parseInt(PAI) + parseInt(Bind) + parseInt(Bing) + parseInt(MTK) + parseInt(Fisika) + parseInt(Kimia) + parseInt(Bsund)
+    rata2 = total / 7
+    demo.innerHTML = `NILAI <br> AGAMA = ${PAI} <br> INDONESIA = ${Bind} <br> INGGRIS = ${Bing} <br> 
+    MTK = ${MTK} <br> FISIKA = ${Fisika} <br> KIMIA = 
+    ${Kimia} <br> SUNDA = ${Bsund} <br> ================================ <br>  Total = ${total} <br>
+     RATA RATA = ${rata2}`
+    NAMAq.value
+    PAIq.value
+    Bindq.value
+    Bingq.value
+    MTKq.value
+    Fiskq.value
+    Kimq.value
+    Bsundq.valu
+    }
+    </script>
+</body>
+</html>

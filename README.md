@@ -15,4 +15,4 @@ Saya adalah siswa tingkat akhir Rekayasa Perangkat Lunak di SMKN 4 Padalarang ya
 - 🕹️ *Fun fact*: Aku suka protein
 
 ### 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyunn17&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Kyunn17)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Kyunn17&theme=tokyonight&no-frame=true&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)

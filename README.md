@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Khairul Faridz 👋
 
-<!--
-**Kyunn17/Kyunn17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya adalah siswa tingkat akhir Rekayasa Perangkat Lunak di SMKN 4 Padalarang yang fokus di bidang **Frontend Development**. Saya suka membangun antarmuka interaktif dan saat ini sedang mendalami pengembangan *mobile*.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Apa yang sedang saya kerjakan?
+- 💼 Sedang bersiap dan mencari peluang PKL / *Internship* terbaik!
+- 🎮 Membangun **CritiPlay**, platform *review & rating game* menggunakan React Native dan Laravel.
+- 🕹️ *Fun fact*: Aku suka protein
+
+### 📊 GitHub Stats
+[![Khairul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyunn17&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

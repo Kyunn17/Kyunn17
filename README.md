@@ -6,8 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Halo%2C+saya+Khairul+Faridz+%F0%9F%91%8B;Membangun+solusi+lewat+kode+%F0%9F%92%BB;Selalu+belajar%2C+selalu+berkembang+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME_GITHUB&label=Profile%20Views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/USERNAME_GITHUB?style=flat&logo=github&color=2c5364)
+![Profile Views](https://komarev.com/ghpvc/?username=Kyunn17&label=Profile%20Views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/Kyunn17?style=flat&logo=github&color=2c5364)
 
 </div>
 
@@ -17,11 +17,10 @@
 
 Halo! Saya **Khairul Faridz**, seorang developer yang antusias membangun aplikasi yang berguna, rapi, dan mudah digunakan.
 
-- 🔭 Sedang mengerjakan: **[isi proyek yang sedang dikerjakan]**
-- 🌱 Sedang belajar: **[isi teknologi yang sedang dipelajari]**
-- 🤝 Terbuka untuk kolaborasi di: **proyek open source & web development**
-- 💬 Tanyakan saya tentang: **[isi topik keahlianmu]**
-- ⚡ Fun fact: **[isi fun fact tentang dirimu]**
+- 🔭 Sedang mengerjakan: **project csv template validation**
+- 🌱 Sedang belajar: **full stack developer dan data engineer**
+- 💬 Tanyakan saya tentang: **frontend development and data analyst**
+- ⚡ Fun fact: **saya pemula**
 
 ---
 
@@ -61,10 +60,10 @@ Halo! Saya **Khairul Faridz**, seorang developer yang antusias membangun aplikas
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kyunn17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyunn17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kyunn17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -74,17 +73,17 @@ Halo! Saya **Khairul Faridz**, seorang developer yang antusias membangun aplikas
 
 | Proyek | Deskripsi | Teknologi |
 | :----- | :-------- | :-------- |
-| [**Nama Proyek 1**](https://github.com/USERNAME_GITHUB/proyek-1) | Deskripsi singkat tentang proyek ini dan masalah yang diselesaikan. | `React` `Node.js` |
-| [**Nama Proyek 2**](https://github.com/USERNAME_GITHUB/proyek-2) | Deskripsi singkat tentang proyek ini dan masalah yang diselesaikan. | `Laravel` `MySQL` |
+| [**csv-template-validation**](https://github.com/kyunn17/csv-template-validation) | Pembuatan website tentang template csv dan validasi | `Next` `databricks` |
+| [**Nama Proyek 2**](https://github.com/kyunn17/trainsmart-tracker) | website pemantau latihan gym terdapat 3 role admin, client,trainer. | `next` `laravel` |
 | [**Nama Proyek 3**](https://github.com/USERNAME_GITHUB/proyek-3) | Deskripsi singkat tentang proyek ini dan masalah yang diselesaikan. | `Python` `Flask` |
 
 <div align="center">
 
-<a href="https://github.com/USERNAME_GITHUB/proyek-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME_GITHUB&repo=proyek-1&theme=tokyonight&hide_border=true" alt="Proyek 1" />
+<a href="https://github.com/kyunn17/proyek-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyunn17&repo=proyek-1&theme=tokyonight&hide_border=true" alt="Proyek 1" />
 </a>
 <a href="https://github.com/USERNAME_GITHUB/proyek-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME_GITHUB&repo=proyek-2&theme=tokyonight&hide_border=true" alt="Proyek 2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyunn17&repo=proyek-2&theme=tokyonight&hide_border=true" alt="Proyek 2" />
 </a>
 
 </div>
@@ -93,10 +92,8 @@ Halo! Saya **Khairul Faridz**, seorang developer yang antusias membangun aplikas
 
 ## 🏆 Pencapaian & Pengalaman
 
-- 🎓 **Pendidikan:** [Nama Kampus / Sekolah], [Jurusan]
-- 💼 **Pengalaman:** [Posisi] di [Perusahaan / Organisasi] ([Tahun])
-- 📜 **Sertifikasi:** [Nama Sertifikat]
-- 🥇 **Prestasi:** [Lomba / Penghargaan]
+- 🎓 **Pendidikan:** SMKN 4 PADALARANG [RPL]
+- 💼 **Pengalaman:** Intern software developer di [Perusahaan / Organisasi] ([Tahun])
 
 ---
 

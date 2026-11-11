@@ -1,119 +1,175 @@
+
+<!-- ================= HERO SECTION ================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Khairul%20Faridz&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=18" alt="header" />
+# Hey, I'm Khairul Faridz 👋
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Halo%2C+saya+Khairul+Faridz+%F0%9F%91%8B;Membangun+solusi+lewat+kode+%F0%9F%92%BB;Selalu+belajar%2C+selalu+berkembang+%F0%9F%9A%80" alt="Typing SVG" />
+### Aspiring Software Developer | Fullstack & Data Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Ideas+Into+Reality;Exploring+Fullstack+Development;Learning+Data+Engineering;Always+Curious%2C+Always+Building." alt="Typing SVG" />
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-00D9FF?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+<!-- ================= ABOUT ME ================= -->
+
+## 🧑‍💻 About Me
+
+```javascript
+const developer = {
+    name: "Khairul Faridz",
+    role: "Aspiring Software Developer",
+    education: "Software Engineering Student",
+    interests: [
+        "Fullstack Development",
+        "Data Engineering",
+        "Web Technologies"
+    ],
+    currentlyLearning: [
+        "Next.js",
+        "Hono",
+        "PostgreSQL",
+        "Databricks"
+    ],
+    mindset: "Build, Break, Learn, Repeat."
+};
+```
+
+I'm a software engineering student passionate about building useful digital products and exploring how technology works behind the scenes.
+
+Currently exploring the intersection of **Fullstack Development** and **Data Engineering**, from building web applications to processing and visualizing data.
+
+I believe every project is an opportunity to learn something new.
+
+---
+
+## ⚡ Tech Stack & Tools
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python" />
+</p>
+
+### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind" />
+</p>
+
+### Database & Data Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+  <img src="https://img.shields.io/badge/Databricks-EA3E2F?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+### Tools & Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,bun" />
+</p>
+
+---
+
+<!-- ================= CURRENT FOCUS ================= -->
+
+## 🚀 Currently Exploring
+
+| Area | Focus |
+|:---|:---|
+| 🌐 Fullstack Development | Next.js, Hono, Better Auth |
+| 🗄️ Database | PostgreSQL, Drizzle ORM |
+| 📊 Data Engineering | Databricks, PySpark, Delta Lake |
+| 🔄 Data Pipeline | Bronze, Silver, Gold Architecture |
+| ☁️ Deployment | Docker, VPS, Cloud Platforms |
+
+---
+
+<!-- ================= PROJECTS ================= -->
+
+## 💡 Featured Projects
+
+### 🏋️ SBL Gym Management System
+A gym management application designed to manage members, subscriptions, class bookings, and attendance.
+
+**Tech:** Next.js · Hono · PostgreSQL · Drizzle ORM
+
+### 📊 CSV Template Validation System
+A dynamic CSV validation web application that validates uploaded files against configurable templates before sending valid data to Databricks.
+
+**Tech:** Next.js · TypeScript · Databricks
+
+### 📈 Talenta × Databricks Integration
+An exploration of employee data integration, data transformation, and dashboard visualization using a Medallion Architecture.
+
+**Tech:** Databricks · PySpark · SQL · Next.js
+
+---
+
+<!-- ================= GITHUB STATS ================= -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<!-- ================= CONTRIBUTION GRAPH ================= -->
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+
+</div>
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kyunn17&label=Profile%20Views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/Kyunn17?style=flat&logo=github&color=2c5364)
-
-</div>
-
----
-
-## 👨‍💻 Tentang Saya
-
-Halo! Saya **Khairul Faridz**, seorang developer yang antusias membangun aplikasi yang berguna, rapi, dan mudah digunakan.
-
-- 🔭 Sedang mengerjakan: **project csv template validation**
-- 🌱 Sedang belajar: **full stack developer dan data engineer**
-- 💬 Tanyakan saya tentang: **frontend development and data analyst**
-- ⚡ Fun fact: **saya pemula**
-
----
-
-## 🛠️ Tech Stack
-
-**Bahasa Pemrograman**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kyunn17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyunn17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kyunn17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🚀 Proyek Pilihan
-
-| Proyek | Deskripsi | Teknologi |
-| :----- | :-------- | :-------- |
-| [**csv-template-validation**](https://github.com/kyunn17/csv-template-validation) | Pembuatan website tentang template csv dan validasi | `Next` `databricks` |
-| [**Nama Proyek 2**](https://github.com/kyunn17/trainsmart-tracker) | website pemantau latihan gym terdapat 3 role admin, client,trainer. | `next` `laravel` |
-| [**Nama Proyek 3**](https://github.com/USERNAME_GITHUB/proyek-3) | Deskripsi singkat tentang proyek ini dan masalah yang diselesaikan. | `Python` `Flask` |
-
-<div align="center">
-
-<a href="https://github.com/kyunn17/proyek-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyunn17&repo=proyek-1&theme=tokyonight&hide_border=true" alt="Proyek 1" />
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/USERNAME_GITHUB/proyek-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyunn17&repo=proyek-2&theme=tokyonight&hide_border=true" alt="Proyek 2" />
+
+<a href="https://YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 🏆 Pencapaian & Pengalaman
-
-- 🎓 **Pendidikan:** SMKN 4 PADALARANG [RPL]
-- 💼 **Pengalaman:** Intern software developer di [Perusahaan / Organisasi] ([Tahun])
-
----
-
-## 📫 Hubungi Saya
-
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emailkamu@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME_INSTAGRAM)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://websitekamu.com)
+### "Code is not just about writing programs. It's about solving problems."
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" />
 
----
-
-<div align="center">
-
-⭐ *Kalau kamu suka proyek saya, jangan ragu kasih bintang ya!* ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="footer" />
+**Thanks for visiting my profile! 🚀**
 
 </div>

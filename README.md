@@ -66,7 +66,7 @@ Saya lebih suka memahami *kenapa* sesuatu bekerja daripada sekadar copy-paste, d
     <td colspan="2" align="center">
       <h3>🌌 Personal Developer Portfolio · KF.</h3>
       <p>Website pribadi bertema luar angkasa dengan potret dan orbit logo teknologi 360° yang bisa diputar.</p>
-      <a href="https://your-portfolio-link.com"><b>Masuk ke universe-nya →</b></a>
+      <a href="khairulfridz.my.id"><b>Masuk ke universe-nya →</b></a>
     </td>
   </tr>
 </table>
@@ -96,8 +96,8 @@ Saya lebih suka memahami *kenapa* sesuatu bekerja daripada sekadar copy-paste, d
 ## 💬 Ngobrol Yuk
 
 <p align="center">
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-KF.-687C99?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="khairulfridz.my.id"><img src="https://img.shields.io/badge/Portfolio-KF.-687C99?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/khairul-faridz-7a59333a5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:email@kamu.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 

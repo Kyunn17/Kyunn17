@@ -1,175 +1,92 @@
+# Hi, I'm Khairul Faridz 👋
 
-<!-- ================= HERO SECTION ================= -->
+**Aspiring Software Developer** | Fullstack Development & Data Engineering
 
-<div align="center">
-
-# Hey, I'm Khairul Faridz 👋
-
-### Aspiring Software Developer | Fullstack & Data Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Ideas+Into+Reality;Exploring+Fullstack+Development;Learning+Data+Engineering;Always+Curious%2C+Always+Building." alt="Typing SVG" />
-
-<br/>
-
-<p>
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-00D9FF?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-</div>
+Siswa Rekayasa Perangkat Lunak di SMKN 4 Padalarang yang sedang menjalani PKL di lingkungan software development. Saya suka memahami bagaimana sebuah aplikasi dibangun, mulai dari tampilan di frontend, logika di backend, sampai bagaimana data diproses dan dikelola.
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
+## 🔭 Yang Sedang Saya Tekuni
 
-## 🧑‍💻 About Me
-
-```javascript
-const developer = {
-    name: "Khairul Faridz",
-    role: "Aspiring Software Developer",
-    education: "Software Engineering Student",
-    interests: [
-        "Fullstack Development",
-        "Data Engineering",
-        "Web Technologies"
-    ],
-    currentlyLearning: [
-        "Next.js",
-        "Hono",
-        "PostgreSQL",
-        "Databricks"
-    ],
-    mindset: "Build, Break, Learn, Repeat."
-};
-```
-
-I'm a software engineering student passionate about building useful digital products and exploring how technology works behind the scenes.
-
-Currently exploring the intersection of **Fullstack Development** and **Data Engineering**, from building web applications to processing and visualizing data.
-
-I believe every project is an opportunity to learn something new.
+- Memperdalam teknologi web modern dan data engineering
+- Memahami konsep di balik kode, bukan sekadar copy-paste solusi
+- Belajar lewat proyek nyata dan eksperimen
+- Terus memperkuat fundamental pemrograman
 
 ---
 
-## ⚡ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python" />
-</p>
+**Fullstack Development**
 
-### Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind" />
-</p>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat&logo=drizzle&logoColor=black)
+![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=flat)
 
-### Database & Data Engineering
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-  <img src="https://img.shields.io/badge/Databricks-EA3E2F?style=for-the-badge&logo=databricks&logoColor=white" />
-</p>
+**Data Engineering**
 
-### Tools & Environment
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,bun" />
-</p>
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+Data Pipeline • Medallion Architecture (Bronze, Silver, Gold) • Delta Tables • Data Integration • Data Visualization
+
+**Tools & Environment**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+VPS Deployment
 
 ---
 
-<!-- ================= CURRENT FOCUS ================= -->
-
-## 🚀 Currently Exploring
-
-| Area | Focus |
-|:---|:---|
-| 🌐 Fullstack Development | Next.js, Hono, Better Auth |
-| 🗄️ Database | PostgreSQL, Drizzle ORM |
-| 📊 Data Engineering | Databricks, PySpark, Delta Lake |
-| 🔄 Data Pipeline | Bronze, Silver, Gold Architecture |
-| ☁️ Deployment | Docker, VPS, Cloud Platforms |
-
----
-
-<!-- ================= PROJECTS ================= -->
-
-## 💡 Featured Projects
-
-### 🏋️ SBL Gym Management System
-A gym management application designed to manage members, subscriptions, class bookings, and attendance.
-
-**Tech:** Next.js · Hono · PostgreSQL · Drizzle ORM
+## 🚀 Selected Projects
 
 ### 📊 CSV Template Validation System
-A dynamic CSV validation web application that validates uploaded files against configurable templates before sending valid data to Databricks.
+Aplikasi web untuk mengatur aturan validasi CSV secara dinamis, memvalidasi file yang diunggah, lalu mengintegrasikan data yang valid ke Databricks.
+`Next.js` `Databricks`
 
-**Tech:** Next.js · TypeScript · Databricks
+### 🌿 LifeSync
+Aplikasi web untuk mengelola kesehatan dan kebiasaan sehari-hari.
+`Next.js` `Express.js`
 
-### 📈 Talenta × Databricks Integration
-An exploration of employee data integration, data transformation, and dashboard visualization using a Medallion Architecture.
+### 🏋️ SBL Gym Management System
+Konsep aplikasi manajemen gym yang mencakup membership, langganan, booking kelas, dan absensi.
 
-**Tech:** Databricks · PySpark · SQL · Next.js
-
----
-
-<!-- ================= GITHUB STATS ================= -->
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="95%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
+### 🌐 Personal Developer Portfolio
+Website pribadi yang menampilkan proyek, minat teknis, dan identitas saya sebagai developer.
+[Kunjungi website →](https://your-portfolio-link.com)
 
 ---
 
-<!-- ================= CONTRIBUTION GRAPH ================= -->
+## 🌱 Prinsip Belajar
 
-## 🐍 Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
-
-</div>
+> Saya masih berkembang, dan itu bagian dari prosesnya. Saya lebih suka membangun sesuatu yang berguna sambil memahami cara kerjanya.
 
 ---
 
-<!-- ================= CONNECT ================= -->
+## 📫 Let's Connect
 
-## 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</div>
+- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- 💼 LinkedIn: [link kamu](https://linkedin.com/in/USERNAME)
+- 📧 Email: email@kamu.com
 
 ---
 
-<div align="center">
-
-### "Code is not just about writing programs. It's about solving problems."
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" />
-
-**Thanks for visiting my profile! 🚀**
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true" />
+</p>

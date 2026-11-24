@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 520" width="320" height="520" role="img" aria-label="Maskot chibi original KF. memegang laptop">
+  <!-- MASKOT: ganti file ini dengan avatar/ilustrasi kamu sendiri (pertahankan nama file atau ubah path di README) -->
+  <title>Maskot Chibi Original — KF. (@kyunn17)</title>
+  <desc>Ilustrasi karakter chibi original berambut pendek gelap dengan syal sakura dan hoodie navy yang memegang laptop bertuliskan KF.</desc>
+  <style>
+    .plate-bg { fill: #FFF8FA; stroke: #0B1026; }
+    .plate-text { fill: #0B1026; }
+    .plate-sub { fill: #9D174D; }
+    @media (prefers-color-scheme: dark) {
+      .plate-bg { fill: #161C45; stroke: #F472B6; }
+      .plate-text { fill: #FFF4E0; }
+      .plate-sub { fill: #F9A8D4; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+    }
+  </style>
+  <defs>
+    <radialGradient id="aura" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#F472B6" stop-opacity="0.32"/>
+      <stop offset="70%" stop-color="#2A2563" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#0B1026" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="hoodieGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2A2563"/>
+      <stop offset="100%" stop-color="#161C45"/>
+    </linearGradient>
+    <linearGradient id="scarfGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F472B6"/>
+      <stop offset="100%" stop-color="#EC4899"/>
+    </linearGradient>
+  </defs>
+
+  <!-- AURA LATAR BELAKANG (terbaca di light & dark mode) -->
+  <circle cx="160" cy="235" r="142" fill="url(#aura)"/>
+  <circle cx="160" cy="235" r="126" fill="#161C45" fill-opacity="0.92" stroke="#F472B6" stroke-width="2.5"/>
+  <circle cx="160" cy="235" r="116" fill="none" stroke="#F9A8D4" stroke-opacity="0.45" stroke-width="1.5" stroke-dasharray="6 6"/>
+
+  <!-- KILAU BINTANG KECIL -->
+  <path d="M56 146 L59 138 L62 146 L70 149 L62 152 L59 160 L56 152 L48 149 Z" fill="#FCD34D">
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="2.8s" repeatCount="indefinite"/>
+  </path>
+  <path d="M262 128 L264 122 L266 128 L272 130 L266 132 L264 138 L262 132 L256 130 Z" fill="#F9A8D4">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3.4s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- KARAKTER CHIBI ORIGINAL (mengambang pelan) -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -6; 0 0" dur="3.4s" repeatCount="indefinite"/>
+
+    <!-- BAYANGAN RAMBUT BELAKANG -->
+    <path d="M96 172 C88 120 118 82 160 82 C202 82 232 120 224 172 C226 196 218 214 205 220 L115 220 C102 214 94 196 96 172 Z" fill="#151936" stroke="#0B1026" stroke-width="3.5"/>
+
+    <!-- BADAN & HOODIE NAVY -->
+    <path d="M104 282 C104 246 128 232 160 232 C192 232 216 246 216 282 L222 332 C222 342 214 348 202 348 L118 348 C106 348 98 342 98 332 Z" fill="url(#hoodieGrad)" stroke="#0B1026" stroke-width="3.5" stroke-linejoin="round"/>
+    <!-- SAKU HOODIE -->
+    <path d="M128 308 L192 308 L198 336 L122 336 Z" fill="#161C45" stroke="#0B1026" stroke-width="2.5" stroke-linejoin="round"/>
+
+    <!-- TELINGA -->
+    <ellipse cx="101" cy="178" rx="9" ry="12" fill="#FFD9C8" stroke="#0B1026" stroke-width="3"/>
+    <ellipse cx="219" cy="178" rx="9" ry="12" fill="#FFD9C8" stroke="#0B1026" stroke-width="3"/>
+
+    <!-- KEPALA CHIBI BULAT -->
+    <path d="M104 166 C104 122 128 102 160 102 C192 102 216 122 216 166 C216 206 192 226 160 226 C128 226 104 206 104 166 Z" fill="#FFE6D8" stroke="#0B1026" stroke-width="3.5"/>
+
+    <!-- PIPI MERONA -->
+    <ellipse cx="126" cy="188" rx="10" ry="5.5" fill="#F472B6" opacity="0.45"/>
+    <ellipse cx="194" cy="188" rx="10" ry="5.5" fill="#F472B6" opacity="0.45"/>
+
+    <!-- MATA DENGAN KEDIPAN HALUS -->
+    <g id="eye-left">
+      <ellipse cx="136" cy="172" rx="9" ry="11" fill="#161C45">
+        <animate attributeName="ry" values="11;11;1.2;11;11" keyTimes="0;0.90;0.94;0.98;1" dur="4.2s" repeatCount="indefinite"/>
+      </ellipse>
+      <circle cx="133" cy="167" r="3.2" fill="#FFFFFF">
+        <animate attributeName="opacity" values="1;1;0;1;1" keyTimes="0;0.90;0.94;0.98;1" dur="4.2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="139" cy="176" r="1.6" fill="#F9A8D4">
+        <animate attributeName="opacity" values="1;1;0;1;1" keyTimes="0;0.90;0.94;0.98;1" dur="4.2s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g id="eye-right">
+      <ellipse cx="184" cy="172" rx="9" ry="11" fill="#161C45">
+        <animate attributeName="ry" values="11;11;1.2;11;11" keyTimes="0;0.90;0.94;0.98;1" dur="4.2s" repeatCount="indefinite"/>
+      </ellipse>
+      <circle cx="181" cy="167" r="3.2" fill="#FFFFFF">
+        <animate attributeName="opacity" values="1;1;0;1;1" keyTimes="0;0.90;0.94;0.98;1" dur="4.2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="187" cy="176" r="1.6" fill="#F9A8D4">
+        <animate attributeName="opacity" values="1;1;0;1;1" keyTimes="0;0.90;0.94;0.98;1" dur="4.2s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- SENYUM KECIL -->
+    <path d="M153 194 Q160 201 167 194" fill="none" stroke="#0B1026" stroke-width="2.8" stroke-linecap="round"/>
+
+    <!-- RAMBUT DEPAN SEDERHANA (generik) -->
+    <path d="M98 164 C96 116 126 88 160 88 C194 88 224 116 222 164 C216 144 206 135 196 148 C190 132 178 128 166 146 C158 128 144 130 136 148 C126 134 108 142 98 164 Z" fill="#1E2456" stroke="#0B1026" stroke-width="3.5" stroke-linejoin="round"/>
+    <path d="M126 110 Q160 98 192 110" fill="none" stroke="#67E8F9" stroke-opacity="0.35" stroke-width="3" stroke-linecap="round"/>
+
+    <!-- SYAL SAKURA -->
+    <path d="M114 226 Q160 240 206 226 C214 234 212 248 202 252 Q160 264 118 252 C108 248 106 234 114 226 Z" fill="url(#scarfGrad)" stroke="#0B1026" stroke-width="3"/>
+    <path d="M174 246 L194 246 L200 288 L178 282 Z" fill="#EC4899" stroke="#0B1026" stroke-width="2.8" stroke-linejoin="round"/>
+    <line x1="180" y1="268" x2="196" y2="271" stroke="#F9A8D4" stroke-width="3"/>
+
+    <!-- TANGAN & LAPTOP "KF." -->
+    <path d="M108 272 L96 306 L118 310" fill="none" stroke="#2A2563" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M212 272 L224 306 L202 310" fill="none" stroke="#2A2563" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="116" cy="308" r="9" fill="#FFE6D8" stroke="#0B1026" stroke-width="2.8"/>
+    <circle cx="204" cy="308" r="9" fill="#FFE6D8" stroke="#0B1026" stroke-width="2.8"/>
+
+    <!-- LAPTOP -->
+    <rect x="114" y="294" width="92" height="58" rx="8" fill="#0B1026" stroke="#67E8F9" stroke-width="2.5"/>
+    <text x="160" y="331" text-anchor="middle" font-family="'Segoe UI',Roboto,sans-serif" font-size="22" font-weight="900" fill="#FFF4E0">KF.</text>
+    <circle cx="192" cy="308" r="3" fill="#F472B6"/>
+  </g>
+
+  <!-- PAPAN NAMA BAWAH -->
+  <rect class="plate-bg" x="34" y="424" width="252" height="62" rx="16" stroke-width="2.5"/>
+  <text class="plate-text" x="160" y="452" text-anchor="middle" font-family="'Segoe UI',Roboto,sans-serif" font-size="20" font-weight="800">KF. · kyunn17</text>
+  <text class="plate-sub" x="160" y="474" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18" font-weight="600">ORIGINAL MASCOT</text>
+</svg>

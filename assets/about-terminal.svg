@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="Siswa RPL SMKN 4 Padalarang, sedang PKL di lingkungan software development. Nyaman di frontend; sekarang sedang belajar fullstack dan mengeksplor data engineering. Lebih suka paham kenapa sesuatu bekerja, dan paling cepat belajar lewat proyek nyata.">
+  <title>About Terminal — Khairul Faridz</title>
+  <desc>Panel terminal bergaya Tokyo Cyber-Red berisi perkenalan singkat Khairul Faridz.</desc>
+  <style>
+    .t-line { opacity: 1; }
+    .cursor { opacity: 1; }
+    @media (prefers-reduced-motion: no-preference) {
+      @keyframes lineIn {
+        0%   { opacity: 0.35; transform: translateY(3px); }
+        100% { opacity: 1; transform: translateY(0px); }
+      }
+      @keyframes cursorBlink {
+        0%, 49%  { opacity: 1; }
+        50%,100% { opacity: 0; }
+      }
+      .t1 { animation: lineIn 0.25s ease-out 0s both; }
+      .t2 { animation: lineIn 0.25s ease-out 0.08s both; }
+      .t3 { animation: lineIn 0.25s ease-out 0.16s both; }
+      .t4 { animation: lineIn 0.25s ease-out 0.24s both; }
+      .t5 { animation: lineIn 0.25s ease-out 0.32s both; }
+      .t6 { animation: lineIn 0.25s ease-out 0.40s both; }
+      .t7 { animation: lineIn 0.25s ease-out 0.48s both; }
+      .t8 { animation: lineIn 0.25s ease-out 0.56s both; }
+      .cursor { animation: cursorBlink 1.2s steps(1) infinite; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="termBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0508"/>
+      <stop offset="100%" stop-color="#14070c"/>
+    </linearGradient>
+    <clipPath id="termClip"><rect width="640" height="360" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#termClip)">
+    <rect width="640" height="360" fill="url(#termBg)"/>
+
+    <!-- TITLE BAR TERMINAL -->
+    <rect width="640" height="42" fill="#1a0810"/>
+    <line x1="0" y1="42" x2="640" y2="42" stroke="#7a0a1a" stroke-width="1.5"/>
+    <circle cx="24" cy="21" r="6" fill="#ff1744"/>
+    <circle cx="46" cy="21" r="6" fill="#b0102c"/>
+    <circle cx="68" cy="21" r="6" fill="#7a0a1a"/>
+    <text x="320" y="26" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="16" fill="#F3C9CF">kf@tokyo-node: ~/about</text>
+
+    <!-- GANTI TEKS TERMINAL DI SINI -->
+    <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18">
+      <text class="t-line t1" x="28" y="84" fill="#FFF1EC"><tspan fill="#ff3b3b" font-weight="700">$</tspan> cat about.txt</text>
+      <text class="t-line t2" x="28" y="122" fill="#FFF1EC">Siswa RPL SMKN 4 Padalarang, sedang PKL di</text>
+      <text class="t-line t3" x="28" y="152" fill="#FFF1EC">lingkungan software development.</text>
+      <text class="t-line t4" x="28" y="192" fill="#F3C9CF">Nyaman di frontend; sekarang sedang belajar</text>
+      <text class="t-line t5" x="28" y="222" fill="#F3C9CF">fullstack dan mengeksplor data engineering.</text>
+      <text class="t-line t6" x="28" y="262" fill="#ff6b81">Lebih suka paham kenapa sesuatu bekerja,</text>
+      <text class="t-line t7" x="28" y="292" fill="#ff6b81">dan paling cepat belajar lewat proyek nyata.</text>
+      <text class="t-line t8" x="28" y="330" fill="#ff3b3b" font-weight="700">$</text>
+      <rect class="cursor" x="48" y="314" width="10" height="19" fill="#ff1744"/>
+    </g>
+  </g>
+  <rect x="1" y="1" width="638" height="358" rx="15" fill="none" stroke="#7a0a1a" stroke-width="2"/>
+</svg>

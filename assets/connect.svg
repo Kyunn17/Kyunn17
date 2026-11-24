@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 320" width="640" height="320" role="img" aria-label="Panel koneksi: 接続中 lalu 完了, connection established, handle kyunn17, dengan sepasang mata kecil yang berkedip">
+  <title>Connection Panel — @kyunn17</title>
+  <desc>Panel kontak bergaya cyber merah dengan log koneksi dan sepasang mata anime mini yang berkedip.</desc>
+  <style>
+    .lid-mini { transform: translateY(0px); }
+    .c-log1, .c-log2 { opacity: 1; }
+    @media (prefers-reduced-motion: no-preference) {
+      @keyframes blinkMini {
+        0%, 40%   { transform: translateY(0px); animation-timing-function: ease-in; }
+        41.2%     { transform: translateY(96px); animation-timing-function: ease-out; }
+        43.6%     { transform: translateY(0px); }
+        86%       { transform: translateY(0px); animation-timing-function: ease-in; }
+        87.2%     { transform: translateY(96px); animation-timing-function: ease-out; }
+        89.2%     { transform: translateY(0px); animation-timing-function: ease-in; }
+        90.4%     { transform: translateY(96px); animation-timing-function: ease-out; }
+        92.8%,100%{ transform: translateY(0px); }
+      }
+      @keyframes fadeIn {
+        0%   { opacity: 0.35; }
+        100% { opacity: 1; }
+      }
+      .lid-mini { animation: blinkMini 11s 2.4s infinite; }
+      .c-log1   { animation: fadeIn 0.3s ease-out 0s both; }
+      .c-log2   { animation: fadeIn 0.35s ease-out 0.25s both; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="cBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0508"/>
+      <stop offset="100%" stop-color="#14070c"/>
+    </linearGradient>
+    <linearGradient id="cSclera" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#d9b8bd"/>
+      <stop offset="45%" stop-color="#FFF1EC"/>
+      <stop offset="100%" stop-color="#f5dede"/>
+    </linearGradient>
+    <radialGradient id="cIris" cx="0.5" cy="0.46" r="0.52">
+      <stop offset="0%" stop-color="#ff8a9a"/>
+      <stop offset="40%" stop-color="#ff1744"/>
+      <stop offset="80%" stop-color="#9e0e26"/>
+      <stop offset="100%" stop-color="#3a0410"/>
+    </radialGradient>
+    <clipPath id="cCardClip"><rect width="640" height="320" rx="16"/></clipPath>
+    <clipPath id="miniEyeClip">
+      <path d="M-125,-14 C-70,-74 95,-58 125,12 C60,56 -92,40 -125,-14 Z"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#cCardClip)">
+    <rect width="640" height="320" fill="url(#cBg)"/>
+
+    <!-- HEADER BAR -->
+    <rect width="640" height="48" fill="#1a0810"/>
+    <line x1="0" y1="48" x2="640" y2="48" stroke="#ff1744" stroke-width="2"/>
+    <circle cx="26" cy="24" r="5.5" fill="#5ad1e6"/>
+    <text x="44" y="30" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="19" font-weight="700" fill="#FFF1EC">CONNECTION // kyunn17</text>
+
+    <!-- LOG KONEKSI (GANTI TEKS DI SINI) -->
+    <text class="c-log1" x="32" y="92" font-family="ui-monospace,SFMono-Regular,Consolas,monospace,'Yu Gothic','Meiryo','Hiragino Sans',sans-serif" font-size="20" fill="#F3C9CF">&gt; 接続中 ...</text>
+    <text class="c-log2" x="32" y="128" font-family="ui-monospace,SFMono-Regular,Consolas,monospace,'Yu Gothic','Meiryo','Hiragino Sans',sans-serif" font-size="20" font-weight="700" fill="#FFF1EC">&gt; <tspan fill="#ff3b3b">完了</tspan> - CONNECTION ESTABLISHED</text>
+
+    <line x1="32" y1="154" x2="608" y2="154" stroke="#7a0a1a" stroke-opacity="0.5" stroke-width="1"/>
+
+    <text x="32" y="196" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18" fill="#F3C9CF">handle: <tspan fill="#FFF1EC" font-weight="700">@kyunn17</tspan></text>
+    <text x="32" y="232" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18" fill="#ff6b81">Tautan kontak ada di bawah ↓</text>
+    <text x="32" y="282" font-family="'Segoe UI',Roboto,sans-serif,'Yu Gothic','Meiryo','Hiragino Sans',sans-serif" font-size="22" font-weight="800" fill="#ff3b3b">開発者 · KF.</text>
+
+    <!-- SEPASANG MATA MINI DI POJOK KANAN BAWAH -->
+    <g transform="translate(432 246) scale(0.36)">
+      <g clip-path="url(#miniEyeClip)">
+        <path d="M-125,-14 C-70,-74 95,-58 125,12 C60,56 -92,40 -125,-14 Z" fill="url(#cSclera)"/>
+        <g transform="translate(8 -6)">
+          <circle cx="0" cy="0" r="52" fill="url(#cIris)"/>
+          <circle cx="0" cy="0" r="20" fill="#0a0508"/>
+          <ellipse cx="-14" cy="-24" rx="14" ry="9.5" transform="rotate(-18 -14 -24)" fill="#ffffff"/>
+          <circle cx="21" cy="14" r="5" fill="#ffffff" opacity="0.88"/>
+        </g>
+        <g class="lid-mini">
+          <path d="M-140,-165 L140,-165 L140,12 L125,12 C95,-58 -70,-74 -125,-14 L-140,-14 Z" fill="#1a0810"/>
+          <path d="M-125,-14 C-70,-74 95,-58 125,12" fill="none" stroke="#ff3b3b" stroke-width="5" stroke-linecap="round"/>
+        </g>
+      </g>
+      <path d="M-125,-14 C-70,-74 95,-58 125,12 C60,56 -92,40 -125,-14 Z" fill="none" stroke="#ff3b3b" stroke-width="5" stroke-linejoin="round"/>
+    </g>
+
+    <g transform="translate(546 246) scale(-0.36 0.36)">
+      <g clip-path="url(#miniEyeClip)">
+        <path d="M-125,-14 C-70,-74 95,-58 125,12 C60,56 -92,40 -125,-14 Z" fill="url(#cSclera)"/>
+        <g transform="translate(8 -6) scale(-1 1)">
+          <circle cx="0" cy="0" r="52" fill="url(#cIris)"/>
+          <circle cx="0" cy="0" r="20" fill="#0a0508"/>
+          <ellipse cx="-14" cy="-24" rx="14" ry="9.5" transform="rotate(-18 -14 -24)" fill="#ffffff"/>
+          <circle cx="21" cy="14" r="5" fill="#ffffff" opacity="0.88"/>
+        </g>
+        <g class="lid-mini">
+          <path d="M-140,-165 L140,-165 L140,12 L125,12 C95,-58 -70,-74 -125,-14 L-140,-14 Z" fill="#1a0810"/>
+          <path d="M-125,-14 C-70,-74 95,-58 125,12" fill="none" stroke="#ff3b3b" stroke-width="5" stroke-linecap="round"/>
+        </g>
+      </g>
+      <path d="M-125,-14 C-70,-74 95,-58 125,12 C60,56 -92,40 -125,-14 Z" fill="none" stroke="#ff3b3b" stroke-width="5" stroke-linejoin="round"/>
+    </g>
+
+    <!-- SUDUT HUD -->
+    <path d="M12,34 V12 H34 M606,12 H628 V34 M12,286 V308 H34 M606,308 H628 V286" fill="none" stroke="#ff1744" stroke-width="2.5"/>
+  </g>
+  <rect x="1" y="1" width="638" height="318" rx="15" fill="none" stroke="#7a0a1a" stroke-width="2"/>
+</svg>

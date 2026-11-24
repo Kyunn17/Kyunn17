@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header-eyes.svg" width="100%" alt="Header cyber Tokyo merah: sepasang mata anime original berkedip, Khairul Faridz — Frontend Developer, leveling up ke Fullstack dan Data Engineering" />
+  <img src="./assets/header-jp.svg" width="100%" alt="Header bertema Jepang minimalis: Khairul Faridz, Frontend Developer yang sedang leveling up ke Fullstack dan Data Engineering, dengan siluet gerbang torii dan matahari merah" />
 </p>
 
 <p align="center"><img src="./assets/divider-neon.svg" width="100%" alt="" /></p>
@@ -94,23 +94,23 @@
   <img src="https://skillicons.dev/icons?i=nodejs,php,postgres,mongodb" alt="Sedang dilatih Fullstack: Node.js, PHP, PostgreSQL, MongoDB" /><br /><br />
   <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" alt="Hono.js" />
   <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
-  <img src="https://img.shields.io/badge/Better_Auth-7a0a1a?style=for-the-badge" alt="Better Auth" />
+  <img src="https://img.shields.io/badge/Better_Auth-1F2937?style=for-the-badge" alt="Better Auth" />
 </p>
 
 <p align="center">
   <b>▸ Sedang dieksplor · Data Engineering</b><br /><br />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
-  <img src="https://img.shields.io/badge/SQL-7a0a1a?style=for-the-badge" alt="SQL" />
-  <img src="https://img.shields.io/badge/Delta_Tables-7a0a1a?style=for-the-badge" alt="Delta Tables" />
-  <img src="https://img.shields.io/badge/Medallion-Bronze_%E2%86%92_Silver_%E2%86%92_Gold-7a0a1a?style=for-the-badge" alt="Medallion Architecture: Bronze, Silver, Gold" />
-  <img src="https://img.shields.io/badge/Data_Pipeline-7a0a1a?style=for-the-badge" alt="Data pipeline" />
+  <img src="https://img.shields.io/badge/SQL-1F2937?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/Delta_Tables-1F2937?style=for-the-badge" alt="Delta Tables" />
+  <img src="https://img.shields.io/badge/Medallion-Bronze_%E2%86%92_Silver_%E2%86%92_Gold-1F2937?style=for-the-badge" alt="Medallion Architecture: Bronze, Silver, Gold" />
+  <img src="https://img.shields.io/badge/Data_Pipeline-1F2937?style=for-the-badge" alt="Data pipeline" />
 </p>
 
 <p align="center">
   <b>▸ Tools</b><br /><br />
   <img src="https://skillicons.dev/icons?i=git,github,bun,docker,vscode" alt="Tools: Git, GitHub, Bun, Docker, VS Code" /><br /><br />
-  <img src="https://img.shields.io/badge/VPS_Deployment-7a0a1a?style=for-the-badge" alt="VPS deployment" />
+  <img src="https://img.shields.io/badge/VPS_Deployment-1F2937?style=for-the-badge" alt="VPS deployment" />
 </p>
 
 <p align="center"><img src="./assets/divider-neon.svg" width="100%" alt="" /></p>
@@ -118,11 +118,11 @@
 ## ◤ CONNECTION
 
 <p align="center">
-  <img src="./assets/connect.svg" width="640" alt="Panel koneksi: connection established, handle kyunn17, dengan sepasang mata kecil yang berkedip" />
+  <img src="./assets/connect.svg" width="640" alt="Panel koneksi: connection established, handle kyunn17, dengan stempel hanko merah bertuliskan developer" />
 </p>
 
 <p align="center">
-  <a href="https://khairulfridz.my.id"><img src="https://img.shields.io/badge/Portfolio-KF.-ff1744?style=for-the-badge" alt="Portfolio KF." /></a>
+  <a href="https://khairulfridz.my.id"><img src="https://img.shields.io/badge/Portfolio-KF.-DC2626?style=for-the-badge" alt="Portfolio KF." /></a>
   <a href="https://www.linkedin.com/in/khairul-faridz-7a59333a5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:arulxxds@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>

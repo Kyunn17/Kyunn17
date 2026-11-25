@@ -1,130 +1,118 @@
 <p align="center">
-  <img src="./assets/header-jp.svg" width="100%" alt="Header bertema Jepang minimalis: Khairul Faridz, Frontend Developer yang sedang leveling up ke Fullstack dan Data Engineering, dengan siluet gerbang torii dan matahari merah" />
+  <img src="./assets/header.svg" width="100%" alt="Khairul Faridz — Frontend-Focused Developer expanding into Fullstack and Data Engineering" />
 </p>
 
-<p align="center"><img src="./assets/divider-neon.svg" width="100%" alt="" /></p>
-
-## ◤ STATUS PANEL
-
 <p align="center">
-  <img src="./assets/status-panel.svg" width="640" alt="Status: Frontend nyaman (fokus utama); Fullstack sedang dipelajari; Data Engineering sedang dieksplor" />
-</p>
-
-<p align="center"><img src="./assets/divider-neon.svg" width="100%" alt="" /></p>
-
-## ◤ SEKILAS
-
-<p align="center">
-  <img src="./assets/about-terminal.svg" width="640" alt="Siswa RPL SMKN 4 Padalarang, sedang PKL di lingkungan software development. Nyaman di frontend; sekarang sedang belajar fullstack dan mengeksplor data engineering. Lebih suka paham kenapa sesuatu bekerja, dan paling cepat belajar lewat proyek nyata." />
+  <img src="./assets/focus-bento.svg" width="100%" alt="Overview: Vocational Software Engineering student at SMKN 4 Padalarang on PKL internship; Frontend comfortable, Fullstack in training, Data Engineering exploring" />
 </p>
 
 <details>
-  <summary>Versi teks</summary>
+  <summary>Plain-text summary</summary>
 
-  Saya **Khairul Faridz** (`kyunn17`), siswa Rekayasa Perangkat Lunak di **SMKN 4 Padalarang** yang sedang menjalani **PKL** di lingkungan software development. Fokus utama saya di **frontend**, dan sekarang sedang belajar **fullstack** serta mengeksplor **data engineering**. Saya lebih suka paham *kenapa* sesuatu bekerja daripada sekadar copy-paste, dan paling cepat belajar lewat proyek nyata.
+  Hi, I'm **Khairul Faridz** (`@kyunn17`), a Software Engineering (RPL) student at **SMKN 4 Padalarang** currently completing an industry internship (**PKL**) in software development. **Frontend** is my strongest area, and I'm actively expanding into **fullstack** and **data engineering** to understand how software works end-to-end — from user interface down to data pipelines. I prefer understanding *why* something works over copy-pasting, and I learn fastest by building real projects.
 
 </details>
 
-<p align="center"><img src="./assets/divider-neon.svg" width="100%" alt="" /></p>
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
-## ◤ MISSION LOG
+## Selected Projects
 
-### ▰ MISSION 01 — CSV Template Validation
-> **Brief:** Web app untuk mengatur aturan validasi CSV secara dinamis, memvalidasi file unggahan, lalu mengintegrasikan data yang valid ke **Databricks**.
+### CSV Template Validation
+Dynamic rule-based CSV validation web app that lets users define custom schemas, validate uploaded CSV files, and route clean records into **Databricks**.
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" />
+  &nbsp;·&nbsp;
+  <a href="https://github.com/kyunn17/CSV-Template-Validation"><b>View Repository →</b></a>
 </p>
-
-[↗ Buka repo](https://github.com/kyunn17/CSV-Template-Validation)
 
 ---
 
-### ▰ MISSION 02 — LifeSync
-> **Brief:** Platform wellness untuk mengelola kesehatan dan kebiasaan harian.
+### LifeSync
+Digital wellness web platform designed to help users manage daily health routines and build consistent habits.
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Express.js-334155?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  &nbsp;·&nbsp;
+  <a href="https://github.com/kyunn17/LifeSync"><b>View Repository →</b></a>
 </p>
 
-[↗ Buka repo](https://github.com/kyunn17/LifeSync)
+---
+
+### SBL Gym Management System
+Gym management system concept covering member registration, recurring subscriptions, class scheduling/booking, and attendance tracking.
+
+<p>
+  <a href="https://github.com/kyunn17/SBL-Gym-Management-System"><b>View Repository →</b></a>
+</p>
 
 ---
 
-### ▰ MISSION 03 — SBL Gym Management System
-> **Brief:** Konsep aplikasi gym yang mencakup membership, langganan, booking kelas, dan absensi.
-
-[↗ Buka repo](https://github.com/kyunn17/SBL-Gym-Management-System)
-
----
-
-### ▰ MISSION 04 — CRITIPLAY · `TEAM MISSION`
-> **Brief:** Proyek tim bersama teman (React + Laravel).
+### CRITIPLAY &nbsp;<sub>`TEAM PROJECT`</sub>
+Collaborative web application built together with friends.
 
 > [!NOTE]
-> **Peran saya:** hanya **frontend pada tahap awal**, dikerjakan bersama teman. Backend dan bagian lainnya dikerjakan tim.
+> **My Role:** Contributed strictly to **early-stage frontend development** alongside a teammate. Backend services and remaining application modules were built by the rest of the team.
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
+  <img src="https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  &nbsp;·&nbsp;
+  <a href="https://github.com/kyunn17/CRITIPLAY"><b>View Repository →</b></a>
 </p>
-
-[↗ Buka repo](https://github.com/kyunn17/CRITIPLAY)
 
 ---
 
-### ▰ MISSION 05 — Personal Developer Portfolio · KF.
-> **Brief:** Website pribadi dengan potret dan orbit logo teknologi 360° yang bisa diputar.
+### Personal Developer Portfolio — `KF.`
+Space-themed personal portfolio featuring an interactive, draggable 360° technology orbit.
 
-[↗ Buka portfolio](https://khairulfridz.my.id)
+<p>
+  <a href="https://khairulfridz.my.id"><b>Visit Portfolio (khairulfridz.my.id) →</b></a>
+</p>
 
-<p align="center"><img src="./assets/divider-neon.svg" width="100%" alt="" /></p>
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
-## ◤ SKILL MATRIX
+## Technical Stack
 
 <p align="center">
-  <b>▸ Sudah nyaman dipakai</b><br /><br />
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Sudah nyaman dipakai: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS" />
+  <b>Frontend · Comfortable</b><br /><br />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS" />
 </p>
 
 <p align="center">
-  <b>▸ Sedang dilatih · Fullstack</b><br /><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,php,postgres,mongodb" alt="Sedang dilatih Fullstack: Node.js, PHP, PostgreSQL, MongoDB" /><br /><br />
-  <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" alt="Hono.js" />
-  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
-  <img src="https://img.shields.io/badge/Better_Auth-1F2937?style=for-the-badge" alt="Better Auth" />
+  <b>Fullstack · Currently Learning</b><br /><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,postgres,mongodb" alt="Node.js, PHP, PostgreSQL, MongoDB" /><br /><br />
+  <img src="https://img.shields.io/badge/Hono.js-1E293B?style=for-the-badge&logo=hono&logoColor=E36002" alt="Hono.js" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-1E293B?style=for-the-badge&logo=drizzle&logoColor=C5F74F" alt="Drizzle ORM" />
+  <img src="https://img.shields.io/badge/Better_Auth-1E293B?style=for-the-badge" alt="Better Auth" />
 </p>
 
 <p align="center">
-  <b>▸ Sedang dieksplor · Data Engineering</b><br /><br />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
-  <img src="https://img.shields.io/badge/SQL-1F2937?style=for-the-badge" alt="SQL" />
-  <img src="https://img.shields.io/badge/Delta_Tables-1F2937?style=for-the-badge" alt="Delta Tables" />
-  <img src="https://img.shields.io/badge/Medallion-Bronze_%E2%86%92_Silver_%E2%86%92_Gold-1F2937?style=for-the-badge" alt="Medallion Architecture: Bronze, Silver, Gold" />
-  <img src="https://img.shields.io/badge/Data_Pipeline-1F2937?style=for-the-badge" alt="Data pipeline" />
+  <b>Data Engineering · Exploring</b><br /><br />
+  <img src="https://img.shields.io/badge/Databricks-1E293B?style=for-the-badge&logo=databricks&logoColor=FF3621" alt="Databricks" />
+  <img src="https://img.shields.io/badge/PySpark-1E293B?style=for-the-badge&logo=apachespark&logoColor=E25A1C" alt="PySpark" />
+  <img src="https://img.shields.io/badge/SQL-1E293B?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/Delta_Tables-1E293B?style=for-the-badge" alt="Delta Tables" />
+  <img src="https://img.shields.io/badge/Medallion_Architecture-Bronze_%E2%86%92_Silver_%E2%86%92_Gold-1E293B?style=for-the-badge" alt="Medallion Architecture: Bronze, Silver, Gold" />
+  <img src="https://img.shields.io/badge/Data_Pipelines-1E293B?style=for-the-badge" alt="Data Pipelines" />
 </p>
 
 <p align="center">
-  <b>▸ Tools</b><br /><br />
-  <img src="https://skillicons.dev/icons?i=git,github,bun,docker,vscode" alt="Tools: Git, GitHub, Bun, Docker, VS Code" /><br /><br />
-  <img src="https://img.shields.io/badge/VPS_Deployment-1F2937?style=for-the-badge" alt="VPS deployment" />
+  <b>Tools &amp; Workflow</b><br /><br />
+  <img src="https://skillicons.dev/icons?i=git,github,bun,docker,vscode" alt="Git, GitHub, Bun, Docker, VS Code" /><br /><br />
+  <img src="https://img.shields.io/badge/VPS_Deployment-1E293B?style=for-the-badge" alt="VPS Deployment" />
 </p>
 
-<p align="center"><img src="./assets/divider-neon.svg" width="100%" alt="" /></p>
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
-## ◤ CONNECTION
-
-<p align="center">
-  <img src="./assets/connect.svg" width="640" alt="Panel koneksi: connection established, handle kyunn17, dengan stempel hanko merah bertuliskan developer" />
-</p>
+## Connect
 
 <p align="center">
-  <a href="https://khairulfridz.my.id"><img src="https://img.shields.io/badge/Portfolio-KF.-DC2626?style=for-the-badge" alt="Portfolio KF." /></a>
+  <a href="https://khairulfridz.my.id"><img src="https://img.shields.io/badge/Portfolio-KF.-687C99?style=for-the-badge" alt="Portfolio KF." /></a>
   <a href="https://www.linkedin.com/in/khairul-faridz-7a59333a5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:arulxxds@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:arulxxds@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 </p>
 
-<p align="center"><sub><i>Masih tumbuh, masih membangun.</i></sub></p>
+<p align="center"><sub><i>Still learning, still building.</i></sub></p>

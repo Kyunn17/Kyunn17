@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 16" width="1000" height="16" role="img" aria-label="Section divider">
+  <title>Section Divider</title>
+  <style>
+    .rule { stroke: #263244; }
+    .tick { fill: #687C99; }
+    @media (prefers-color-scheme: light) {
+      .rule { stroke: #D8E0EA; }
+      .tick { fill: #687C99; }
+    }
+  </style>
+  <line class="rule" x1="0" y1="8" x2="482" y2="8" stroke-width="1"/>
+  <polygon class="tick" points="500,3 505,8 500,13 495,8"/>
+  <line class="rule" x1="518" y1="8" x2="1000" y2="8" stroke-width="1"/>
+</svg>

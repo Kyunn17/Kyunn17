@@ -107,12 +107,46 @@ Space-themed personal portfolio featuring an interactive, draggable 360° techno
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
+## GitHub Analytics
+
+<p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Kyunn17&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=f7f6f2&text_color=cbd5e1&icon_color=8fa6c4&ring_color=687c99&border_color=263244&border_radius=12" alt="Kyunn17 GitHub Stats and Rank" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyunn17&layout=compact&langs_count=6&bg_color=0d1117&title_color=f7f6f2&text_color=cbd5e1&border_color=263244&border_radius=12" alt="Kyunn17 Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kyunn17&background=0d1117&border=263244&stroke=263244&ring=687c99&fire=34d399&currStreakNum=f7f6f2&sideNums=f7f6f2&currStreakLabel=8fa6c4&sideLabels=94a3b8&dates=94a3b8&border_radius=12" alt="Kyunn17 GitHub Contribution Streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kyunn17&bg_color=0d1117&color=94a3b8&title_color=f7f6f2&line=687c99&point=34d399&area=true&area_color=687c99&border_color=263244&radius=12&custom_title=Contribution%20Activity" alt="Kyunn17 GitHub Contribution Activity Graph" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Kyunn17&theme=onedark&no-bg=true&margin-w=8&margin-h=8&column=6&row=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Kyunn17&theme=flat&no-bg=true&margin-w=8&margin-h=8&column=6&row=1" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Kyunn17&theme=onedark&no-bg=true&margin-w=8&margin-h=8&column=6&row=1" alt="Kyunn17 GitHub Trophies" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kyunn17/Kyunn17/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kyunn17/Kyunn17/output/github-snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/Kyunn17/Kyunn17/output/github-snake-dark.svg" alt="Kyunn17 GitHub Contribution Snake" />
+  </picture>
+</p>
+
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
+
 ## Connect
 
 <p align="center">
   <a href="https://khairulfridz.my.id"><img src="https://img.shields.io/badge/Portfolio-KF.-687C99?style=for-the-badge" alt="Portfolio KF." /></a>
   <a href="https://www.linkedin.com/in/khairul-faridz-7a59333a5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:arulxxds@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Kyunn17&color=687c99&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <p align="center"><sub><i>Still learning, still building.</i></sub></p>

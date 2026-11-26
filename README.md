@@ -33,6 +33,7 @@ Dynamic rule-based CSV validation web app that lets users define custom schemas,
 Digital wellness web platform designed to help users manage daily health routines and build consistent habits.
 
 <p>
+  <img src="https://img.shields.io/badge/Flutter-111827?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Express.js-334155?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
   &nbsp;·&nbsp;
@@ -41,12 +42,15 @@ Digital wellness web platform designed to help users manage daily health routine
 
 ---
 
-### SBL Gym Management System
+### Trainsmart Tracker
 Gym management system concept covering member registration, recurring subscriptions, class scheduling/booking, and attendance tracking.
 
 <p>
-  <a href="https://github.com/kyunn17/SBL-Gym-Management-System"><b>View Repository →</b></a>
+  <a href="https://github.com/kyunn17/Trainsmart-tracker"><b>View Repository →</b></a>
 </p>
+<img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+ 
 
 ---
 

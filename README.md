@@ -114,7 +114,7 @@ Space-themed personal portfolio featuring an interactive, draggable 360° techno
 ## GitHub Analytics
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Kyunn17&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=f7f6f2&text_color=cbd5e1&icon_color=8fa6c4&ring_color=687c99&border_color=263244&border_radius=12" alt="Kyunn17 GitHub Stats and Rank" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Kyunn17&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=f7f6f2&text_color=cbd5e1&icon_color=8fa6c4&ring_color=687c99&border_color=263244&border_radius=12" alt="Kyunn17 GitHub Stats and Rank" />
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyunn17&layout=compact&langs_count=6&bg_color=0d1117&title_color=f7f6f2&text_color=cbd5e1&border_color=263244&border_radius=12" alt="Kyunn17 Top Languages" />
 </p>
 
@@ -128,17 +128,17 @@ Space-themed personal portfolio featuring an interactive, draggable 360° techno
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Kyunn17&theme=onedark&no-bg=true&margin-w=8&margin-h=8&column=6&row=1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Kyunn17&theme=flat&no-bg=true&margin-w=8&margin-h=8&column=6&row=1" />
-    <img src="https://github-profile-trophy.vercel.app/?username=Kyunn17&theme=onedark&no-bg=true&margin-w=8&margin-h=8&column=6&row=1" alt="Kyunn17 GitHub Trophies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://trophy.ryglcloud.net/?username=Kyunn17&theme=onedark&no-bg=true&margin-w=8&margin-h=8&column=6&row=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://trophy.ryglcloud.net/?username=Kyunn17&theme=flat&no-bg=true&margin-w=8&margin-h=8&column=6&row=1" />
+    <img src="https://trophy.ryglcloud.net/?username=Kyunn17&theme=onedark&no-bg=true&margin-w=8&margin-h=8&column=6&row=1" alt="Kyunn17 GitHub Trophies" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kyunn17/Kyunn17/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kyunn17/Kyunn17/output/github-snake-light.svg" />
-    <img src="https://raw.githubusercontent.com/Kyunn17/Kyunn17/output/github-snake-dark.svg" alt="Kyunn17 GitHub Contribution Snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kyunn17/Kyunn17/output/github-snake-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kyunn17/Kyunn17/output/github-snake-light.svg?v=2" />
+    <img src="https://raw.githubusercontent.com/Kyunn17/Kyunn17/output/github-snake-dark.svg?v=2" alt="Kyunn17 GitHub Contribution Snake" />
   </picture>
 </p>
 
